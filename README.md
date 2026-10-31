@@ -1,6 +1,6 @@
 Your Clean TeamCms - Laravel CMS for Your Project
 =====================================
-### This Is the main cms from Your Clean Team. there have lots of error why not i am find and replace any place make sure you solve every issue you rename the file name and folder name
+
 
 
 ## About
